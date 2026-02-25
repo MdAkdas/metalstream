@@ -7,5 +7,10 @@
 # Build output
 **/target/
 
+# Maven wrapper
+**/.mvn/
+**/mvnw
+**/mvnw.cmd
+
 # Logs
 *.log
